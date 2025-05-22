@@ -1,0 +1,80 @@
+thomas@kabalin.com logged on at 19/09/2021 18:11:00
+admin logged on using their administrator login at 19/09/2021 18:11:09
+thomas@kabalin.com logged on at 19/09/2021 18:12:38
+test@test2.g was deleted by admin 19/09/2021 18:20:00
+Unknown user closed the program at 19/09/2021 18:26:02
+thomas@kabalin.com logged on at 19/09/2021 18:26:17
+thomas@kabalin.com closed the program at 19/09/2021 18:26:19
+Unknown user closed the program at 20/09/2021 15:54:12
+thomas@kabalin.com closed the program at 20/09/2021 16:05:42
+Unknown user closed the program at 20/09/2021 17:52:11
+admin changed their login details at 20/09/2021 17:52:41
+Unknown user closed the program at 20/09/2021 17:53:00
+daf closed the program at 20/09/2021 17:59:21
+admin changed their login details at 20/09/2021 18:01:13
+admin changed their login details at 21/09/2021 09:19:28
+Unknown user closed the program at 21/09/2021 09:19:30
+Unknown user closed the program at 21/09/2021 09:20:45
+admin changed their login details at 21/09/2021 09:21:02
+Unknown user closed the program at 21/09/2021 09:21:10
+Unknown user closed the program at 21/09/2021 09:33:10
+admin changed their login details at 21/09/2021 09:33:59
+Unknown user closed the program at 21/09/2021 09:34:01
+Unknown user closed the program at 21/09/2021 09:35:32
+thomas@kabalin.com closed the program at 21/09/2021 09:36:49
+Unknown user closed the program at 21/09/2021 09:38:49
+thomas@kabalin.com closed the program at 21/09/2021 09:39:35
+Unknown user closed the program at 21/09/2021 09:41:45
+thoma closed the program at 21/09/2021 15:30:50
+Unknown user closed the program at 21/09/2021 15:31:47
+admin logged on using their administrator login at 21/09/2021 18:34:48
+admin logged on using their administrator login at 21/09/2021 18:38:50
+admin closed the program at 21/09/2021 18:39:26
+Unknown user closed the program at 21/09/2021 18:40:36
+admin logged on using their administrator login at 21/09/2021 18:42:59
+admin closed the program at 21/09/2021 18:43:20
+admin logged on using their administrator login at 22/09/2021 13:03:27
+test@td.f created an account at 22/09/2021 13:04:13
+h@k.f created an account at 22/09/2021 13:04:41
+admin logged on using their administrator login at 22/09/2021 13:04:59
+admin closed the program at 22/09/2021 13:05:38
+admin logged on using their administrator login at 22/09/2021 13:06:20
+admin closed the program at 22/09/2021 13:06:25
+admin closed the program at 22/09/2021 13:06:47
+admin logged on using their administrator login at 22/09/2021 13:07:09
+admin closed the program at 22/09/2021 13:07:25
+admin logged on using their administrator login at 22/09/2021 13:08:14
+admin closed the program at 22/09/2021 13:09:16
+
+admin closed the program at 22/09/2021 15:51:18
+admin closed the program at 22/09/2021 15:52:27
+thomas@kabalin.com closed the program at 22/09/2021 15:53:00
+thomas@kabalin.com logged on at 22/09/2021 15:53:13
+thomas@kabalin.com closed the program at 22/09/2021 15:53:32
+Unknown user closed the program at 22/09/2021 16:26:21
+Unknown user closed the program at 22/09/2021 16:27:24
+admin logged on using their administrator login at 22/09/2021 16:28:05
+admin closed the program at 22/09/2021 16:28:29
+thomas@kabalin.com logged on at 03/10/2021 14:06:18
+thomas@kabalin.com closed the program at 03/10/2021 14:06:24
+sferreira@cannonscreek.co.za created an account at 08/10/2021 11:33:44
+admin logged on using their administrator login at 08/10/2021 11:35:51
+Unknown user closed the program at 11/10/2021 13:12:47
+Unknown user closed the program at 11/10/2021 13:21:07
+Unknown user closed the program at 11/10/2021 13:21:39
+Unknown user closed the program at 11/10/2021 13:22:05
+Unknown user closed the program at 11/10/2021 13:22:55
+Unknown user closed the program at 11/10/2021 13:23:34
+thomas@kabalin.com logged on at 18/10/2021 15:44:31
+thomas@kabalin.com closed the program at 18/10/2021 15:45:02
+Unknown user closed the program at 25/10/2021 16:01:26
+admin logged on using their administrator login at 15/01/2022 12:09:34
+admin closed the program at 15/01/2022 13:01:58
+thomas@kabalin.com logged on at 28/02/2022 17:46:38
+admin logged on using their administrator login at 28/02/2022 17:47:30
+admin closed the program at 28/02/2022 17:47:49
+Unknown user closed the program at 17/06/2022 15:33:46
+thomas@kabalin.com logged on at 04/07/2022 10:01:29
+thomas@kabalin.com closed the program at 04/07/2022 10:02:04
+thomas@kabalin.com logged on at 06/07/2022 16:10:40
+thomas@kabalin.com closed the program at 06/07/2022 16:11:00
